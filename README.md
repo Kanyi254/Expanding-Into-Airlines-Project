@@ -17,9 +17,10 @@ the safest planes to buy. I have been tasked with finding out what planes we can
 
 
    ### Visualisations
-       ![Aircraft Accidents] (engine type.png)
-       ![Aircraft Accidents] (fatal injuries by aircraft.png)
-       ![Aircraft Accidents] (84-06.png)
+      ![alt text](image-1.png)
+      ![alt text](image-2.png)
+      ![alt text](image-3.png)
+      ![alt text](image-4.png)
 
 ## CONCLUSION
    Based on the exploratory analysis, the following conclusions can be drawn:
@@ -31,3 +32,10 @@ the safest planes to buy. I have been tasked with finding out what planes we can
   links for presentation
   6.Consider investing in more helicopters to reduce the number of accidents and improve overall safety.
   7.Monitor the number of accidents over time and adjust safety protocols and training programs as needed.
+
+
+## LINKS
+ ### WORKBOOK
+ https://public.tableau.com/views/AviationworkbookBrandon/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+ ### PRESENTATION
+ https://www.canva.com/design/DAGHV6wE15A/fZaWzgmK5uhfdWWdHBBDWQ/edit?utm_content=DAGHV6wE15A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
