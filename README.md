@@ -21,7 +21,7 @@ the safest planes to buy. I have been tasked with finding out what planes we can
 ![alt text](<engine type-1.png>)
   ![alt text](<fatal injuries by aircraft-1.png>) 
   ![alt text](heli-1.png) 
-  ![alt text](image-6.png)
+  ![alt text](image-3.png)
 ## CONCLUSION
    Based on the exploratory analysis, the following conclusions can be drawn:
   1.The most common aircraft category involved in accidents is airplanes.
