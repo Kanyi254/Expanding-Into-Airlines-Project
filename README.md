@@ -1,3 +1,4 @@
+* links for slides and tableau at the end of the readme file
 ## OVERVIEW
 Black Group corporate wants to venture into airlines business. But they are worried because they don't know 
 the safest planes to buy. I have been tasked with finding out what planes we can get for our
