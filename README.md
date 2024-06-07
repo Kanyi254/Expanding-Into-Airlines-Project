@@ -17,9 +17,8 @@ the safest planes to buy. I have been tasked with finding out what planes we can
 
 
    ### Visualisations
-    ![alt text](image-5.png)
+    
 ![alt text](<engine type-1.png>)
- ![alt text](example_dashboard-1.png)
   ![alt text](<fatal injuries by aircraft-1.png>) 
   ![alt text](heli-1.png) 
   ![alt text](image-6.png)
