@@ -1,4 +1,9 @@
-* links for slides and tableau at the end of the readme file
+* ## links for slides and tableau at the end of the readme file
+  ### dashboard link 
+   https://public.tableau.com/views/AviationworkbookBrandon/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+  ### Slides link
+   https://www.canva.com/design/DAGHV6wE15A/fZaWzgmK5uhfdWWdHBBDWQ/edit?utm_content=DAGHV6wE15A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+   
 ## OVERVIEW
 Black Group corporate wants to venture into airlines business. But they are worried because they don't know 
 the safest planes to buy. I have been tasked with finding out what planes we can get for our
