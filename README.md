@@ -30,14 +30,14 @@ the safest planes to buy. I have been tasked with finding out what planes we can
   ![alt text](image-3.png)
 ## CONCLUSION
    Based on the exploratory analysis, the following conclusions can be drawn:
-  1.The most common aircraft category involved in accidents is airplanes.
-  2.The Cessna make has readily available good models but a high number of accidents.
-  3.Helicopters have a lower number of accidents compared to airplanes.
-  4.The number of accidents has been increasing over time, with a notable spike in accidents during the 2010s.
-  5.There is a positive correlation between the number of engines and the number of accidents for airplanes.
-  links for presentation
-  6.Consider investing in more helicopters to reduce the number of accidents and improve overall safety.
-  7.Monitor the number of accidents over time and adjust safety protocols and training programs as needed.
+  * The most common aircraft category involved in accidents is airplanes.
+  * The Cessna make has readily available good models but a high number of accidents.
+  * Helicopters have a lower number of accidents compared to airplanes.
+  * The number of accidents has been increasing over time, with a notable spike in accidents during the 2010s.
+  * There is a positive correlation between the number of engines and the number of accidents for airplanes.
+    links for presentation
+  * Consider investing in more helicopters to reduce the number of accidents and improve overall safety.
+  * Monitor the number of accidents over time and adjust safety protocols and training programs as needed.
 
 
 ## LINKS
