@@ -1,8 +1,8 @@
 
   ### dashboard link 
-   https://public.tableau.com/views/AviationworkbookBrandon/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+   The dashboard link is here [dashboard](https://public.tableau.com/views/AviationworkbookBrandon/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
   ### Slides link
-   https://www.canva.com/design/DAGHV6wE15A/fZaWzgmK5uhfdWWdHBBDWQ/edit?utm_content=DAGHV6wE15A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+   Find the Slides presentation here [presentation](https://www.canva.com/design/DAGHV6wE15A/fZaWzgmK5uhfdWWdHBBDWQ/edit?utm_content=DAGHV6wE15A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
    
 ## OVERVIEW
 Black Group corporate wants to venture into airlines business. But they are worried because they don't know 
@@ -22,6 +22,8 @@ the safest planes to buy. I have been tasked with finding out what planes we can
   ### Description of Data
       the file is a csv file (comma separated values). It contains data from air accidents from 1960 - 2023
       It includes the aircrafts model, make, types of engine, dates of crash and many more. There are some with missing values 
+  ### Data 
+  The dataset has 88889 rows and 30 columns. It has a lot of missing values making it hard to deal with. 
 
 
    ### Visualisations
@@ -30,6 +32,9 @@ the safest planes to buy. I have been tasked with finding out what planes we can
   ![alt text](<fatal injuries by aircraft-1.png>) 
   ![alt text](heli-1.png) 
   ![alt text](image-3.png)
+  ![alt text](image-7.png)
+  ![alt text](image-8.png)
+  
 ## CONCLUSION
    Based on the exploratory analysis, the following conclusions can be drawn:
   * The most common aircraft category involved in accidents is airplanes.
@@ -42,8 +47,7 @@ the safest planes to buy. I have been tasked with finding out what planes we can
   * Monitor the number of accidents over time and adjust safety protocols and training programs as needed.
 
 
-## LINKS
- ### WORKBOOK
- https://public.tableau.com/views/AviationworkbookBrandon/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
- ### PRESENTATION
- https://www.canva.com/design/DAGHV6wE15A/fZaWzgmK5uhfdWWdHBBDWQ/edit?utm_content=DAGHV6wE15A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+## Insights
+The project shouldn't be considered for real life use as the dataset provided missed a lot of necessary details. 
+ 
