@@ -1,22 +1,22 @@
 
   ### dashboard link 
-   The dashboard link is here [dashboard](https://public.tableau.com/views/AviationworkbookBrandon/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+   The dashboard link is here 👉[dashboard](https://public.tableau.com/views/AviationworkbookBrandon/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
   ### Slides link
-   Find the Slides presentation here [presentation](https://www.canva.com/design/DAGHV6wE15A/fZaWzgmK5uhfdWWdHBBDWQ/edit?utm_content=DAGHV6wE15A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+   Find the Slides presentation here👉  [presentation](https://www.canva.com/design/DAGHV6wE15A/fZaWzgmK5uhfdWWdHBBDWQ/edit?utm_content=DAGHV6wE15A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)	
    
-## OVERVIEW
+# **OVERVIEW**
 Black Group corporate wants to venture into airlines business. But they are worried because they don't know 
 the safest planes to buy. I have been tasked with finding out what planes we can get for our
 
 
-## BUSINESS UNDERSTANDING
+# **BUSINESS UNDERSTANDING**
 1. Is their really any safe plane?
 2. Will this actually work?
 3. what caused the planes to crash?
 4. Are the crafts the problem?
 
 
-## DATA UNDERSTANDING AND ANALYSIS
+# **DATA UNDERSTANDING AND ANALYSIS**
   ### Source of Data
      This data wa derived from AviationData.csv collected by NTSB
   ### Description of Data
@@ -26,7 +26,7 @@ the safest planes to buy. I have been tasked with finding out what planes we can
   The dataset has 88889 rows and 30 columns. It has a lot of missing values making it hard to deal with. 
 
 
-   ### Visualisations
+  # **Visualisations**
     
 ![alt text](<engine type-1.png>)
   ![alt text](<fatal injuries by aircraft-1.png>) 
@@ -35,7 +35,7 @@ the safest planes to buy. I have been tasked with finding out what planes we can
   ![alt text](image-7.png)
   ![alt text](image-8.png)
   
-## CONCLUSION
+# **CONCLUSION**
    Based on the exploratory analysis, the following conclusions can be drawn:
   * The most common aircraft category involved in accidents is airplanes.
   * The Cessna make has readily available good models but a high number of accidents.
@@ -49,5 +49,5 @@ the safest planes to buy. I have been tasked with finding out what planes we can
 
 
 ## Insights
-The project shouldn't be considered for real life use as the dataset provided missed a lot of necessary details. 
+The project shouldn't be considered for real life use as the dataset provided missed a lot of necessary details. Should be used for edcutational purposes only
  
