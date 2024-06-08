@@ -1,4 +1,4 @@
-* ## links for slides and tableau at the end of the readme file
+
   ### dashboard link 
    https://public.tableau.com/views/AviationworkbookBrandon/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
   ### Slides link
@@ -12,6 +12,8 @@ the safest planes to buy. I have been tasked with finding out what planes we can
 ## BUSINESS UNDERSTANDING
 1. Is their really any safe plane?
 2. Will this actually work?
+3. what caused the planes to crash?
+4. Are the crafts the problem?
 
 
 ## DATA UNDERSTANDING AND ANALYSIS
